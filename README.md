@@ -510,17 +510,17 @@ Fully-auto sniper, hasn't been used in episodes yet, but it will.
 
 Due to the huge amount of vehicles in Moving Up In Los Santos, this list is still work in progress. Check back soon!
 
-###[Ford Crown Victoria 2011](https://www.gta5-mods.com/vehicles/ford-crown-victoria-2011-add-on-replace-animations-lods)
+### [Ford Crown Victoria 2011](https://www.gta5-mods.com/vehicles/ford-crown-victoria-2011-add-on-replace-animations-lods)
 
-###[Ford Crown Victoria 1998-2011](https://www.gta5-mods.com/vehicles/1998-ford-crown-victoria-lx-replace-unlocked)
+### [Ford Crown Victoria 1998-2011](https://www.gta5-mods.com/vehicles/1998-ford-crown-victoria-lx-replace-unlocked)
 
-###[Mercedes E55 AMG](https://www.gta5-mods.com/vehicles/mercedes-benz-e55-amg-add-on-replace-tuning-realistic-sound-handling)
+### [Mercedes E55 AMG](https://www.gta5-mods.com/vehicles/mercedes-benz-e55-amg-add-on-replace-tuning-realistic-sound-handling)
 
-###[Mercedes AMG S65](https://www.gta5-mods.com/vehicles/mercedes-s65-w222)
+### [Mercedes AMG S65](https://www.gta5-mods.com/vehicles/mercedes-s65-w222)
 
-###[Mercedes S600](https://www.gta5-mods.com/vehicles/mercedes-s600-w220)
+### [Mercedes S600](https://www.gta5-mods.com/vehicles/mercedes-s600-w220)
 
-###[Ford F150 Raptor](https://www.gta5-mods.com/vehicles/2012-ford-f150-svt-raptor)
+### [Ford F150 Raptor](https://www.gta5-mods.com/vehicles/2012-ford-f150-svt-raptor)
 
 
 
