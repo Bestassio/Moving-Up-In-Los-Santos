@@ -136,7 +136,11 @@ And having this mod enabled while having more then 2 mlo's installed will cause 
 ### ASUniverse -  Mod un-available 
  
 Grab service, Jobs, Maze Bank account
- 
+
+Alternatives:
+[JobsV](https://www.gta5-mods.com/scripts/jobsv) Jobs replacement
+[Banking System](https://www.gta5-mods.com/scripts/jobsv) a bit buggy, but it does the job.
+
 ### [Persistance II](https://www.gta5-mods.com/scripts/i-m-not-mental-s-persistance-mod)
   
 Allows you to lock your car, and save it
