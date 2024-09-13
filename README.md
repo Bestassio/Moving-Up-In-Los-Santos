@@ -24,6 +24,7 @@ Moving Up In Los Santos is running on older version of the game (GTA ONLINE Chop
 
 [Weapons](#Weapons)
 
+[Vehicles](#Vehicles) WIP
 
 # **Main mods:**
 
