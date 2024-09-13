@@ -34,9 +34,10 @@ Moving Up In Los Santos is running on older version of the game (GTA ONLINE Chop
 
  Allows you to load scripts
 
-### [ScriptHookVDotNet](https://github.com/scripthookvdotnet/scripthookvdotnet/releases)
+### [ScriptHookVDotNet](https://github.com/scripthookvdotnet/scripthookvdotnet/releases) / [ScriptHookVDotNet Nightly](https://github.com/scripthookvdotnet/scripthookvdotnet-nightly/releases)
 
 Allows you to load scripts, and reload them, when they break
+Nightly is recommended, but in some cases you might need the "normal" DotNet
 
 ### iFruitAddon2
  
