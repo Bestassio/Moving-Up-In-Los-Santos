@@ -305,6 +305,12 @@ If it breaks, reload all scripts with scripthook and it should work
  
 • [Featured in Episode 6 of "Moving Up In Los Santos"](https://youtu.be/mTSf0mYHiWA)
 
+### [Stockage Stickups](https://www.gta5-mods.com/scripts/stockade-stickups)
+
+Allows you to rob stockades in freemode, similar to Convoy's and other hits, but this one is not a mission and only contains this "freemode" event
+
+• [Featured in Episode 6 of "Moving Up In Los Santos"](https://youtu.be/mTSf0mYHiWA)
+
 ### [Hitman](https://www.gta5-mods.com/scripts/hitman-mod-updated-reloaded)
  
 Works perfectly, as long as you install it properly, and follow all requirements
