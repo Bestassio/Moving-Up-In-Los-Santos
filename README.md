@@ -210,7 +210,7 @@ Allows you to crouch/prone
  
 ### [Addon Weapons](https://www.gta5-mods.com/scripts/addonweapons)
  
-Allows you to purchase Add-On weapons, and save them when you leave and restart the game
+Allows you to purchase Add-On weapons, and save them when you leave and restart the game.. sorta.. I still wouldn't trust it 100%
  
 ### [GameplayFixesV](https://www.gta5-mods.com/scripts/gameplayfixesv)
  
