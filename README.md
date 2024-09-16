@@ -142,7 +142,9 @@ Alternatives:
 
 [JobsV](https://www.gta5-mods.com/scripts/jobsv) Jobs replacement
 
-[Banking System](https://www.gta5-mods.com/scripts/jobsv) a bit buggy, but it does the job.
+[Banking System](https://www.gta5-mods.com/scripts/fleeca-banking-system) a bit buggy, but it does the job.
+
+[Account In Bank](https://www.gta5-mods.com/scripts/accountinbank) 
 
 ### [Persistance II](https://www.gta5-mods.com/scripts/i-m-not-mental-s-persistance-mod)
   
