@@ -4,7 +4,7 @@ What is "MUILS"?
 Muils is a YouTube episodic series where we play a heavily modified version of GTA 5 also known as "Real Life Mod"
 
 ## **Mods list for Bestassio's Moving Up In Los Santos**
-A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 12)
+A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 13)
 
 
 Some of the mods which I use in the videos are no longer available, and while I do have them backed up, I don't want to distribute them, as they were removed for a reason. (Either a DMCA take down, or mod creator no longer wanting to work on them) Althrough you can find them elsewhere (be careful. and I don't recommend or endorse trying to get them elsewhere) a lot of mods which are un-available are really *unstable* and usually might require some maintenence.
@@ -233,7 +233,10 @@ Allows sticky bombs to be triggered by phone contact, instead of interaction but
 ### [Hostages](https://www.gta5-mods.com/scripts/hostagesv-net)
  
 Allows you to take people hostages..
- 
+
+### [Dynamic Indicators](https://www.gta5-mods.com/scripts/dynamic-indicators)
+
+Only supports a few cars
 
 ## Earn and spend money:
 
@@ -524,6 +527,8 @@ Fully-auto sniper, hasn't been used in episodes yet, but it will.
 ## Vehicles:
 
 Due to the huge amount of vehicles in Moving Up In Los Santos, this list is still work in progress. Check back soon!
+
+### [Audi RS6 2016](https://www.gta5-mods.com/vehicles/2014-audi-rs6)
 
 ### [Ford Crown Victoria 2011](https://www.gta5-mods.com/vehicles/ford-crown-victoria-2011-add-on-replace-animations-lods)
 
