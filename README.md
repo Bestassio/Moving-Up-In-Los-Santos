@@ -4,7 +4,7 @@ What is "MUILS"?
 Muils is a YouTube episodic series where we play a heavily modified version of GTA 5 also known as "Real Life Mod"
 
 ## **Mods list for Bestassio's Moving Up In Los Santos**
-A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 13)
+A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 14)
 
 
 Some of the mods which I use in the videos are no longer available, and while I do have them backed up, I don't want to distribute them, as they were removed for a reason. (Either a DMCA take down, or mod creator no longer wanting to work on them) Althrough you can find them elsewhere (be careful. and I don't recommend or endorse trying to get them elsewhere) a lot of mods which are un-available are really *unstable* and usually might require some maintenence.
@@ -393,6 +393,9 @@ Really cool, but small interior, can be used for oddly specific things, like bus
 
 Probably my favorite mansion, has not been used in Moving Up In LS yet, but it's one of the first mods, I installed, and I used it for testing mods for Muils.
 
+### [Sanders Motors](https://www.gta5-mods.com/maps/mlo-sanders-motors-dealership-and-garage-sp-add-on)
+
+Great spacious dealership. Branded as "Motors" instead of "Motorcycles" like other dealership mods at this place, which allows this to be any dealership
 
 ## Weapons
 
@@ -525,10 +528,18 @@ Fully-auto sniper, hasn't been used in episodes yet, but it will.
 
 
 ## Vehicles:
+Vehicles with * sign have some slight issues, like mentioned in the showcase video
+
 
 Due to the huge amount of vehicles in Moving Up In Los Santos, this list is still work in progress. Check back soon!
 
 ### [Audi RS6 2016](https://www.gta5-mods.com/vehicles/2014-audi-rs6)
+
+### [Audi RS6 C8 2021](https://www.gta5-mods.com/vehicles/2021-audi-rs6-sedan-c8-add-on)
+
+### [Audi R8 2020](https://www.gta5-mods.com/vehicles/audi-r8-2020-addon)
+
+### [BMW M4 Competition G82 2021*](https://www.gta5-mods.com/vehicles/2021-bmw-m4-competition)
 
 ### [Ford Crown Victoria 2011](https://www.gta5-mods.com/vehicles/ford-crown-victoria-2011-add-on-replace-animations-lods)
 
@@ -540,7 +551,18 @@ Due to the huge amount of vehicles in Moving Up In Los Santos, this list is stil
 
 ### [Mercedes S600](https://www.gta5-mods.com/vehicles/mercedes-s600-w220)
 
+### [Mercedes E63S 2021](https://www.gta5-mods.com/vehicles/2021-mercedes-amg-e63-s-4matic-w213-facelift-add-on-fivem-extras)
+
 ### [Ford F150 Raptor](https://www.gta5-mods.com/vehicles/2012-ford-f150-svt-raptor)
 
+### [Rolls Royce Wraith 2014](https://www.gta5-mods.com/vehicles/2014-rolls-royce-wraith-add-on-animated-extras-template)
 
+### [Rolls Royce Wraith](https://www.gta5-mods.com/vehicles/rollse-royse-wraith-add-on-replace-animated-by-anertee)
 
+### [Rolls Royce Cullinan Black Badge](https://www.gta5-mods.com/vehicles/rolls-royce-cullinan-black-badge-add-on-replace-fivem-lods)
+
+### [Rolls Royce Dawn Onyx](https://www.gta5-mods.com/vehicles/2016-rolls-royce-dawn-onyx-concept-add-on-tuning-1-0-what-the-fuck)
+
+### [Lamborghini Aventador](https://www.gta5-mods.com/vehicles/2013-lamborghini-aventador-lp720-4-50th-anniversary)
+
+Note: Multiple Porsche cars have been featured in "Moving Up In Los Santos" episodes, but I'm unable to link them here, as they are no longer available, due to Porsche sending a DMCA take-down to GTA5 modding websites, few years back.
