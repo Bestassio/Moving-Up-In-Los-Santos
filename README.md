@@ -155,6 +155,8 @@ Allows you to lock your car, and save it
 Keeps you from flying every time you get into a car accident
  
 ### [IV Style Exit](https://www.gta5-mods.com/scripts/iv-style-exit-vehicle-net)
+
+[Alternative Version if one above doesn't work)(https://www.gta5-mods.com/scripts/iv-style-exit-vehicle-net-optimized)
  
 Be able to control if car engine stays on or off when exiting a vehicle
  
