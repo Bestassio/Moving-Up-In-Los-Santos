@@ -343,12 +343,6 @@ Good heist, a bit too easy though
 
 • [Featured in Episode 11 of "Moving Up In Los Santos"](https://youtu.be/7fowy98VgD4?si=YqPLBriWUb7MtIPH)
 
-### [Bank Of Liberty Heist](https://www.gta5-mods.com/scripts/bank-of-liberty-heist)
-
-Rob the bank of liberty, fun little heist mod, that is a bit too easy
-Requires Bank of Liberty MLO (which can be found below, or in the mod description)
-
-• [Featured in Episode 15 of "Moving Up In Los Santos"](https://youtu.be/S1tfQsuCBt4)
 
 ## Enviroment
 
@@ -409,13 +403,6 @@ Probably my favorite mansion, has not been used in Moving Up In LS yet, but it's
 Great spacious dealership. Branded as "Motors" instead of "Motorcycles" like other dealership mods at this place, which allows this to be any dealership
 
 • [Featured in Episode 14 of "Moving Up In Los Santos"](https://youtu.be/NPptlGUzFc0)
-
-### [Bank Of Liberty MLO Interior](https://www.gta5-mods.com/maps/mlo-gta-iv-bank-of-liberty-interior-fivem)
-
-Cool port of Bank of Liberty City interior from GTA4.
-
-• [Featured in Episode 15 of "Moving Up In Los Santos"](https://youtu.be/S1tfQsuCBt4)
-
 
 ## Weapons
 
