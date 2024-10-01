@@ -352,6 +352,12 @@ Requires Bank of Liberty MLO (which can be found below, or in the mod descriptio
 
 • [Featured in Episode 15 of "Moving Up In Los Santos"](https://youtu.be/S1tfQsuCBt4)
 
+### [Simmy's Repo Service](https://www.gta5-mods.com/scripts/simmy-s-repo-service-los-santos)
+
+Brand new mod, pretty cool, feels like some of the jobs from FiveM, but they are hand-crafted.
+
+• [Featured in Episode 16 of "Moving Up In Los Santos"](https://youtu.be/K0cdeiVqFAo)
+
 ## Enviroment
 
 My personal favorite graphics mod is - 
@@ -585,5 +591,11 @@ Due to the huge amount of vehicles in Moving Up In Los Santos, this list is stil
 ### [Rolls Royce Dawn Onyx](https://www.gta5-mods.com/vehicles/2016-rolls-royce-dawn-onyx-concept-add-on-tuning-1-0-what-the-fuck)
 
 ### [Lamborghini Aventador](https://www.gta5-mods.com/vehicles/2013-lamborghini-aventador-lp720-4-50th-anniversary)
+
+### [Ford F450 Platinum Tow Truck](https://www.gta5-mods.com/vehicles/2019-f450-superduty-platinum-4-door-tow-truck-pack-fivem)
+
+Pretty cool tow truck, loaded it through LML (Lenny's Mod Loader) seems to be really buggy though
+
+• [Featured in Episode 16 of "Moving Up In Los Santos"](https://youtu.be/K0cdeiVqFAo)
 
 Note: Multiple Porsche cars have been featured in "Moving Up In Los Santos" episodes, but I'm unable to link them here, as they are no longer available, due to Porsche sending a DMCA take-down to GTA5 modding websites, few years back.
