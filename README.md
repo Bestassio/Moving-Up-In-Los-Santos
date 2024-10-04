@@ -242,6 +242,12 @@ Allows you to take people hostages..
 
 Only supports a few cars
 
+### [Action Gear](https://youtu.be/6C7A-5ryMgc)
+
+Additional interaction gear for some actions ( I used it for equipping armor)
+
+• [First Featured in Episode 17 of "Moving Up In Los Santos](https://youtu.be/6C7A-5ryMgc)
+
 ## Earn and spend money:
 
 ### [Wheelman](https://www.gta5-mods.com/scripts/wheelman)
