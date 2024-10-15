@@ -604,6 +604,10 @@ Due to the huge amount of vehicles in Moving Up In Los Santos, this list is stil
 
 ### [Lamborghini Aventador](https://www.gta5-mods.com/vehicles/2013-lamborghini-aventador-lp720-4-50th-anniversary)
 
+### [Nissan Skyline GT-R R34*](https://www.gta5-mods.com/vehicles/nissan-skyline-gt-r-bnr34-yca-y97y)
+
+### [Nissan Skyline GT-R R35](https://www.gta5-mods.com/vehicles/2015-nissan-gtr-nismo-yca-y97y)
+
 ### [Ford F450 Platinum Tow Truck](https://www.gta5-mods.com/vehicles/2019-f450-superduty-platinum-4-door-tow-truck-pack-fivem)
 
 Pretty cool tow truck, loaded it through LML (Lenny's Mod Loader) seems to be really buggy though
