@@ -137,6 +137,8 @@ Collides with a lot of MLO mods.
 And having this mod enabled while having more then 2 mlo's installed will cause map loading issues
  
 ### ASUniverse -  Mod un-available 
+
+This mod was removed by it's creator, but there are some signs of the mod coming back sometime
  
 Grab service, Jobs, Maze Bank account
 
