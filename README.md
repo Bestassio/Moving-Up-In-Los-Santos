@@ -150,6 +150,10 @@ Alternatives:
 
 [Account In Bank](https://www.gta5-mods.com/scripts/accountinbank) 
 
+[Ride Share](https://www.gta5-mods.com/scripts/enhanced-taxi-missions) Cool taxi/uber mod, which has some great features, imo the best uber mod
+
+[Lift Ride Share](https://www.gta5-mods.com/scripts/rideshare) Uber/Lift mod, has car ratings.
+
 ### [Persistance II](https://www.gta5-mods.com/scripts/i-m-not-mental-s-persistance-mod)
   
 Allows you to lock your car, and save it
@@ -371,6 +375,14 @@ Brand new mod, pretty cool, feels like some of the jobs from FiveM, but they are
 Pretty cool mod, which allows you to steal, race, sell cars, either stolen or your own, you can't set sell price though.
 
 • [Featured in Episode 18 of "Moving Up In Los Santos"](https://youtu.be/boZ900RxFik)
+
+### [Ride Share](https://www.gta5-mods.com/scripts/enhanced-taxi-missions)
+
+Cool taxi/uber mod, which has some great features
+
+### [Lift Ride Share](https://www.gta5-mods.com/scripts/rideshare)
+
+Uber/Lift mod, has car ratings.
 
 ## Enviroment
 
