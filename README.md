@@ -384,6 +384,11 @@ Cool taxi/uber mod, which has some great features
 
 Uber/Lift mod, has car ratings.
 
+### [Valet](https://www.gta5-mods.com/scripts/valet-missions)
+
+Great little mod which allows you to work as a valet
+It is an older mod, so it does require you to have nightly version of scripthook
+
 ## Enviroment
 
 My personal favorite graphics mod is - 
