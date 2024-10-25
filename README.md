@@ -389,6 +389,11 @@ Uber/Lift mod, has car ratings.
 Great little mod which allows you to work as a valet
 It is an older mod, so it does require you to have nightly version of scripthook
 
+### [Sell Vehicles at Simeon](https://www.gta5-mods.com/scripts/sell-cars-at-simeon-s-premium-deluxe-autosport-v1-0-by-the-paradox)
+
+Amazing mod to sell owned or stolen vehicles.
+A little buggy sometimes
+
 ## Enviroment
 
 My personal favorite graphics mod is - 
