@@ -394,6 +394,11 @@ It is an older mod, so it does require you to have nightly version of scripthook
 Amazing mod to sell owned or stolen vehicles.
 A little buggy sometimes
 
+### [The Mob](https://www.gta5-mods.com/scripts/the-mob)
+
+Great work for mob/mafia mod.
+Missions get triggered automatically, so sometimes you might need to wait.
+
 ## Enviroment
 
 My personal favorite graphics mod is - 
@@ -631,6 +636,8 @@ Due to the huge amount of vehicles in Moving Up In Los Santos, this list is stil
 ### [Nissan Skyline GT-R R34*](https://www.gta5-mods.com/vehicles/nissan-skyline-gt-r-bnr34-yca-y97y)
 
 ### [Nissan Skyline GT-R R35](https://www.gta5-mods.com/vehicles/2015-nissan-gtr-nismo-yca-y97y)
+
+### [Nissan Qashqai](https://www.gta5-mods.com/vehicles/2016-nissan-qashqai-add-on-hq)
 
 ### [Ford F450 Platinum Tow Truck](https://www.gta5-mods.com/vehicles/2019-f450-superduty-platinum-4-door-tow-truck-pack-fivem)
 
