@@ -10,7 +10,7 @@ A lot of mods are combined for Moving Up In Los Santos episodes to exist, this p
 Some of the mods which I use in the videos are no longer available, and while I do have them backed up, I don't want to distribute them, as they were removed for a reason. (Either a DMCA take down, or mod creator no longer wanting to work on them) Althrough you can find them elsewhere (be careful. and I don't recommend or endorse trying to get them elsewhere) a lot of mods which are un-available are really *unstable* and usually might require some maintenence.
 For the mods, which are un-available, I will try my best to find a replacement, as soon as one is available.
 
-Moving Up In Los Santos is running on older version of the game (GTA ONLINE Chop Shop Update), mostly because current latest version breaks a lot of older mods which are a necessary  
+Moving Up In Los Santos is running on older version of the game (GTA ONLINE Chop Shop Update *but modified to have latest content*), mostly because current latest version breaks a lot of older mods which are a necessary  
 
 ## Table of contents:
 
