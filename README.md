@@ -4,7 +4,7 @@ What is "MUILS"?
 Muils is a YouTube episodic series where we play a heavily modified version of GTA 5 also known as "Real Life Mod"
 
 ## **Mods list for Bestassio's Moving Up In Los Santos**
-A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 18)
+A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 25)
 
 
 Some of the mods which I use in the videos are no longer available, and while I do have them backed up, I don't want to distribute them, as they were removed for a reason. (Either a DMCA take down, or mod creator no longer wanting to work on them) Althrough you can find them elsewhere (be careful. and I don't recommend or endorse trying to get them elsewhere) a lot of mods which are un-available are really *unstable* and usually might require some maintenence.
@@ -380,24 +380,40 @@ Pretty cool mod, which allows you to steal, race, sell cars, either stolen or yo
 
 Cool taxi/uber mod, which has some great features
 
+• [Featured in Episode 21 of "Moving Up In Los Santos"](https://youtu.be/0zsaquAd5iY)
+
 ### [Lift Ride Share](https://www.gta5-mods.com/scripts/rideshare)
 
 Uber/Lift mod, has car ratings.
+
+• [Featured in Episode 21 of "Moving Up In Los Santos"](https://youtu.be/0zsaquAd5iY)
 
 ### [Valet](https://www.gta5-mods.com/scripts/valet-missions)
 
 Great little mod which allows you to work as a valet
 It is an older mod, so it does require you to have nightly version of scripthook
 
+• [Featured in Episode 22 of "Moving Up In Los Santos"](https://youtu.be/YdiBwaRsXS8)
+
 ### [Sell Vehicles at Simeon](https://www.gta5-mods.com/scripts/sell-cars-at-simeon-s-premium-deluxe-autosport-v1-0-by-the-paradox)
 
 Amazing mod to sell owned or stolen vehicles.
 A little buggy sometimes
 
+• [Featured in Episode 23 of "Moving Up In Los Santos"](https://youtu.be/zdocilupl_w)
+
 ### [The Mob](https://www.gta5-mods.com/scripts/the-mob)
 
 Great work for mob/mafia mod.
 Missions get triggered automatically, so sometimes you might need to wait.
+
+• [Featured in Episode 24 of "Moving Up In Los Santos"](https://youtu.be/f0IMjEqeL2k)
+
+### [Counterfit Warehouse Heist](https://www.gta5-mods.com/scripts/gta-offline-counterfit-cash-warehouse-heist-trailer)
+
+Great little heist mod, customizable.
+
+• [Featured in Episode 25 of "Moving Up In Los Santos"](https://youtu.be/PU4aXMGNzQY?si=8hBWTgjH6FHsgrRr)
 
 ## Enviroment
 
