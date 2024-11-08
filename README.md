@@ -4,7 +4,7 @@ What is "MUILS"?
 Muils is a YouTube episodic series where we play a heavily modified version of GTA 5 also known as "Real Life Mod"
 
 ## **Mods list for Bestassio's Moving Up In Los Santos**
-A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 26)
+A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 27)
 
 
 Some of the mods which I use in the videos are no longer available, and while I do have them backed up, I don't want to distribute them, as they were removed for a reason. (Either a DMCA take down, or mod creator no longer wanting to work on them) Althrough you can find them elsewhere (be careful. and I don't recommend or endorse trying to get them elsewhere) a lot of mods which are un-available are really *unstable* and usually might require some maintenence.
@@ -419,6 +419,12 @@ Great little heist mod, customizable.
 
 • [Featured in Episode 26 of "Moving Up In Los Santos"](https://youtu.be/EwbRnsGknc0?si=tvJmDyLBaAfNCfTP)
 
+### [Property Manager - Buy / Rent / Maintain Houses](https://www.gta5-mods.com/scripts/propertymanager)
+
+Allows you to buy / rent / maintain specific properties (add-on houses)
+
+• [Featured in Episode 27 of "Moving Up In Los Santos"](https://www.youtube.com/watch?v=Hr8vYG8mP8w)
+
 ## Enviroment
 
 My personal favorite graphics mod is - 
@@ -471,7 +477,9 @@ Really cool, but small interior, can be used for oddly specific things, like bus
 
 ### [Forest Mansion](https://www.gta5-mods.com/maps/forest-mansion)
 
-Probably my favorite mansion, has not been used in Moving Up In LS yet, but it's one of the first mods, I installed, and I used it for testing mods for Muils.
+Probably my favorite mansion.
+
+• [Featured in Episode 27 of "Moving Up In Los Santos"](https://www.youtube.com/watch?v=Hr8vYG8mP8w)
 
 ### [Sanders Motors](https://www.gta5-mods.com/maps/mlo-sanders-motors-dealership-and-garage-sp-add-on)
 
