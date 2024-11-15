@@ -687,6 +687,8 @@ Due to the huge amount of vehicles in Moving Up In Los Santos, this list is stil
 
 ### [Nissan Qashqai](https://www.gta5-mods.com/vehicles/2016-nissan-qashqai-add-on-hq)
 
+### [Volkswagen Golf GTI 2023](https://www.gta5-mods.com/vehicles/volkswagen-golf-gti-2023)
+
 ### [Ford F450 Platinum Tow Truck](https://www.gta5-mods.com/vehicles/2019-f450-superduty-platinum-4-door-tow-truck-pack-fivem)
 
 Pretty cool tow truck, loaded it through LML (Lenny's Mod Loader) seems to be really buggy though
