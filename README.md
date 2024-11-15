@@ -4,7 +4,7 @@ What is "MUILS"?
 Muils is a YouTube episodic series where we play a heavily modified version of GTA 5 also known as "Real Life Mod"
 
 ## **Mods list for Bestassio's Moving Up In Los Santos**
-A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 28)
+A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 29)
 
 
 Some of the mods which I use in the videos are no longer available, and while I do have them backed up, I don't want to distribute them, as they were removed for a reason. (Either a DMCA take down, or mod creator no longer wanting to work on them) Althrough you can find them elsewhere (be careful. and I don't recommend or endorse trying to get them elsewhere) a lot of mods which are un-available are really *unstable* and usually might require some maintenence.
@@ -254,6 +254,12 @@ Additional interaction gear for some actions ( I used it for equipping armor)
 
 • [First Featured in Episode 17 of "Moving Up In Los Santos](https://youtu.be/6C7A-5ryMgc)
 
+### [Casino](https://www.gta5-mods.com/scripts/diamond-casino-resort-business)
+
+Adds fully functional Casino.
+
+• [Featured in Episode 29 of "Moving Up In Los Santos](https://youtu.be/lNOsDB39W-k?si=TN3TlM5OhAukR0AC)
+
 ## Earn and spend money:
 
 ### [Wheelman](https://www.gta5-mods.com/scripts/wheelman)
@@ -430,6 +436,12 @@ Allows you to buy / rent / maintain specific properties (add-on houses)
 Pretty cool "business" which allows you to cook, there's upgrades and missions, pretty cool
 
 • [Featured in Episode 27 of "Moving Up In Los Santos"](https://youtu.be/WZr0CV4BHA8?si=YBd63fCfxgEAi0n1)
+
+### [Lottery](https://www.gta5-mods.com/scripts/san-andreas-lotto)
+
+Adds the ability to buy lottery tickets.
+
+• [Featured in Episode 29 of "Moving Up In Los Santos](https://youtu.be/lNOsDB39W-k?si=TN3TlM5OhAukR0AC)
 
 ## Enviroment
 
