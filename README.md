@@ -4,7 +4,7 @@ What is "MUILS"?
 Muils is a YouTube episodic series where we play a heavily modified version of GTA 5 also known as "Real Life Mod"
 
 ## **Mods list for Bestassio's Moving Up In Los Santos**
-A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 36)
+A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 37)
 
 
 Some of the mods which I use in the videos are no longer available, and while I do have them backed up, I don't want to distribute them, as they were removed for a reason. (Either a DMCA take down, or mod creator no longer wanting to work on them) Althrough you can find them elsewhere (be careful. and I don't recommend or endorse trying to get them elsewhere) a lot of mods which are un-available are really *unstable* and usually might require some maintenence.
@@ -493,6 +493,16 @@ Makes guns sound more.. fun (also includes tire sounds and some other misc sound
 Note: I use 1.2 version and not 1.3.
 1.2 also has a issue with rifles not shooting.
 Which can be fixed by downloading a different rifle sound
+
+## Christmas Related
+
+### [Enhanced Bridges](https://www.gta5-mods.com/maps/enhanced-bridges-v-ymap)
+
+Good looking bridge decorations
+
+### [Festive Streetlights V](https://www.gta5-mods.com/maps/festive-streetlights-v)
+
+Good looking street light decorations
 
 ## Interiors 
 Do note: Some or all of these interiors might cause issues, if you are running them with "Enable All Interiors" or Multiplayer Maps enabled. (The closer an interior is to a GTA ONLINE interior, the more likely it is, that it will make map not render anymore. When using these maps, I recommend either temporarily removing EAI mod, or re-enabling and disabling MP Maps in Simple Native Trainer
