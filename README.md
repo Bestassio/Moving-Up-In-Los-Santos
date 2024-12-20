@@ -4,7 +4,7 @@ What is "MUILS"?
 Muils is a YouTube episodic series where we play a heavily modified version of GTA 5 also known as "Real Life Mod"
 
 ## **Mods list for Bestassio's Moving Up In Los Santos**
-A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 38)
+A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 39)
 
 
 Some of the mods which I use in the videos are no longer available, and while I do have them backed up, I don't want to distribute them, as they were removed for a reason. (Either a DMCA take down, or mod creator no longer wanting to work on them) Althrough you can find them elsewhere (be careful. and I don't recommend or endorse trying to get them elsewhere) a lot of mods which are un-available are really *unstable* and usually might require some maintenence.
@@ -470,6 +470,12 @@ Amazing heist mod which brings the pacific standard job heist from online to SP,
 
 • [Featured in Episode 38 of "Moving Up In Los Santos](https://youtu.be/_onOfAO8re0)
 
+### [Golden Train Heist](https://www.gta5-mods.com/scripts/the-golden-train-heist)
+
+Pretty simple heist.
+
+• [Featured in Episode 39 of "Moving Up In Los Santos](https://www.youtube.com/watch?v=5S1V0yyRmas)
+
 ## Enviroment
 
 My personal favorite graphics mod is - 
@@ -697,6 +703,8 @@ Due to the huge amount of vehicles in Moving Up In Los Santos, this list is stil
 ### [Ford Crown Victoria 2011](https://www.gta5-mods.com/vehicles/ford-crown-victoria-2011-add-on-replace-animations-lods)
 
 ### [Ford Crown Victoria 1998-2011](https://www.gta5-mods.com/vehicles/1998-ford-crown-victoria-lx-replace-unlocked)
+
+### [Ford Explorer](https://www.gta5-mods.com/vehicles/ford-explorer-u502-2013-replace-ao-template)
 
 ### [Mercedes E55 AMG](https://www.gta5-mods.com/vehicles/mercedes-benz-e55-amg-add-on-replace-tuning-realistic-sound-handling)
 
