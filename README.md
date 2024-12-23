@@ -4,7 +4,7 @@ What is "MUILS"?
 Muils is a YouTube episodic series where we play a heavily modified version of GTA 5 also known as "Real Life Mod"
 
 ## **Mods list for Bestassio's Moving Up In Los Santos**
-A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 39)
+A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 40)
 
 
 Some of the mods which I use in the videos are no longer available, and while I do have them backed up, I don't want to distribute them, as they were removed for a reason. (Either a DMCA take down, or mod creator no longer wanting to work on them) Althrough you can find them elsewhere (be careful. and I don't recommend or endorse trying to get them elsewhere) a lot of mods which are un-available are really *unstable* and usually might require some maintenence.
@@ -554,6 +554,12 @@ Cool port of Bank of Liberty City interior from GTA4.
 
 • [Featured in Episode 15 of "Moving Up In Los Santos"](https://youtu.be/S1tfQsuCBt4)
 
+### [Playboy Mansion](https://www.gta5-mods.com/maps/playboy-mansion-with-interior)
+
+The only playboy mansion available at this moment
+
+• [Featured in Episode 40 of "Moving Up In Los Santos"](https://youtu.be/wfh2u70HMc4?si=xzyzmeCnaXEpxq2S)
+
 ## Weapons
 
 ## PISTOLS:
@@ -713,6 +719,8 @@ Due to the huge amount of vehicles in Moving Up In Los Santos, this list is stil
 ### [Mercedes S600](https://www.gta5-mods.com/vehicles/mercedes-s600-w220)
 
 ### [Mercedes E63S 2021](https://www.gta5-mods.com/vehicles/2021-mercedes-amg-e63-s-4matic-w213-facelift-add-on-fivem-extras)
+
+### [Mercedes G63 2012](https://www.gta5-mods.com/vehicles/2012-mercedes-benz-g-63-amg-add-on-tuning-extras-vehfuncs-v)
 
 ### [Ford F150 Raptor](https://www.gta5-mods.com/vehicles/2012-ford-f150-svt-raptor)
 
