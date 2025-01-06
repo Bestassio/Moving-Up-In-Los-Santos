@@ -4,7 +4,7 @@ What is "MUILS"?
 Muils is a YouTube episodic series where we play a heavily modified version of GTA 5 also known as "Real Life Mod"
 
 ## **Mods list for Bestassio's Moving Up In Los Santos**
-A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 42)
+A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 44)
 
 
 Some of the mods which I use in the videos are no longer available, and while I do have them backed up, I don't want to distribute them, as they were removed for a reason. (Either a DMCA take down, or mod creator no longer wanting to work on them) Althrough you can find them elsewhere (be careful. and I don't recommend or endorse trying to get them elsewhere) a lot of mods which are un-available are really *unstable* and usually might require some maintenence.
@@ -482,6 +482,20 @@ Great house robbery mod, this one has the most features and customizability.
 
 • [Featured in Episode 43 of "Moving Up In Los Santos](https://youtu.be/M7Ufi0xGDDI?si=uFeD-aMCsPBro-vL)
 • [Featured in Episode 4 of "Moving Up In Los Santos](https://youtu.be/njNFKDEHNSE)
+
+### [The Boss](https://www.patreon.com/posts/59522902)
+
+Become a mafia boss mod, pretty great
+
+Warning: Patreon page, but the mod is free, just scroll all the way down, till you see "The Boss_v1.3.1_Public.rar"
+
+• [Featured in Episode 44 of "Moving Up In Los Santos](https://youtu.be/JV9myJgBcdk)
+
+### [Gerald's Delivery](https://www.gta5-mods.com/scripts/gerald-drugs-delivery-iv-drugs-delivery-missions)
+
+Good, simple, cool mod
+
+• [Featured in Episode 44 of "Moving Up In Los Santos](https://youtu.be/JV9myJgBcdk)
 
 ## Enviroment
 
