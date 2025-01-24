@@ -4,7 +4,7 @@ What is "MUILS"?
 Muils is a YouTube episodic series where we play a heavily modified version of GTA 5 also known as "Real Life Mod"
 
 ## **Mods list for Bestassio's Moving Up In Los Santos**
-A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 45)
+A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 49)
 
 
 Some of the mods which I use in the videos are no longer available, and while I do have them backed up, I don't want to distribute them, as they were removed for a reason. (Either a DMCA take down, or mod creator no longer wanting to work on them) Althrough you can find them elsewhere (be careful. and I don't recommend or endorse trying to get them elsewhere) a lot of mods which are un-available are really *unstable* and usually might require some maintenence.
@@ -503,6 +503,12 @@ Good, simple, cool mod
 
 • [Featured in Episode 44 of "Moving Up In Los Santos](https://youtu.be/JV9myJgBcdk)
 
+### [Gefängnis Bank Heist](https://www.gta5-mods.com/scripts/gefangnis-bank-heist)
+
+Great fun little heist mod with few different approaches
+
+• [Featured in Episode 49 of "Moving Up In Los Santos](https://youtu.be/TbghXklUIfE?si=7pGErt6MW9Gw8ztF)
+
 ## Enviroment
 
 My personal favorite graphics mod is - 
@@ -782,5 +788,9 @@ Pretty cool tow truck, loaded it through LML (Lenny's Mod Loader) seems to be re
 ### [Peugeot 406 Taxi*](https://www.gta5-mods.com/vehicles/peugeot-406-taxi-2-addon-dials)
 
 • [Featured in Episode 31 of "Moving Up In Los Santos"](https://youtu.be/Qg5g1Xi72K4?si=-rvn45enhj6O7aBU)
+
+### [Reliant Robin](https://www.gta5-mods.com/vehicles/reliant-robin-mk-1-replace-addon)
+
+• [Featured in Episode 49 of "Moving Up In Los Santos](https://youtu.be/TbghXklUIfE?si=7pGErt6MW9Gw8ztF)
 
 Note: Multiple Porsche cars have been featured in "Moving Up In Los Santos" episodes, but I'm unable to link them here, as they are no longer available, due to Porsche sending a DMCA take-down to GTA5 modding websites, few years back.
