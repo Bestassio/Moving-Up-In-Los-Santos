@@ -4,7 +4,7 @@ What is "MUILS"?
 Muils is a YouTube episodic series where we play a heavily modified version of GTA 5 also known as "Real Life Mod"
 
 ## **Mods list for Bestassio's Moving Up In Los Santos**
-A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 49)
+A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 50)
 
 
 Some of the mods which I use in the videos are no longer available, and while I do have them backed up, I don't want to distribute them, as they were removed for a reason. (Either a DMCA take down, or mod creator no longer wanting to work on them) Althrough you can find them elsewhere (be careful. and I don't recommend or endorse trying to get them elsewhere) a lot of mods which are un-available are really *unstable* and usually might require some maintenence.
@@ -593,6 +593,20 @@ The only playboy mansion available at this moment
 
 • [Featured in Episode 40 of "Moving Up In Los Santos"](https://youtu.be/wfh2u70HMc4?si=xzyzmeCnaXEpxq2S)
 
+### [Eclipse Rooftop Penthouse](https://www.gta5-mods.com/maps/mlo-rooftop-eclipse-tower)
+
+Luxurious rooftop penthouse apartment with amazing view of the city
+
+• [Featured in Episode 50 of "Moving Up In Los Santos"](https://youtu.be/QaKRJ4KMDgs)
+
+### [Eclipse Garage Complex](https://www.gta5-mods.com/maps/eclipse-complex)
+
+Multi-level fancy garage, with luxurious back office, also adds lobby for eclipse towers building.
+
+*This requires MP Maps to be on, which can cause issues at times.*
+
+• [Featured in Episode 50 of "Moving Up In Los Santos"](https://youtu.be/QaKRJ4KMDgs)
+
 ## Weapons
 
 ## PISTOLS:
@@ -740,6 +754,10 @@ Due to the huge amount of vehicles in Moving Up In Los Santos, this list is stil
 ### [Audi R8 2020](https://www.gta5-mods.com/vehicles/audi-r8-2020-addon)
 
 ### [BMW M4 Competition G82 2021*](https://www.gta5-mods.com/vehicles/2021-bmw-m4-competition)
+
+### [Bugatti Chiron](https://www.gta5-mods.com/vehicles/2017-bugatti-chiron-add-on-replace-auto-spoiler-hq-interior)
+
+• [Featured in Episode 50 of "Moving Up In Los Santos"](https://youtu.be/QaKRJ4KMDgs)
 
 ### [Dodge RAM LIMITED 2016](https://www.gta5-mods.com/vehicles/dodge-ram-limited-2016-1-0-replace-tuning-addon)
 
