@@ -4,7 +4,7 @@ What is "MUILS"?
 Muils is a YouTube episodic series where we play a heavily modified version of GTA 5 also known as "Real Life Mod"
 
 ## **Mods list for Bestassio's Moving Up In Los Santos**
-A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 52)
+A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 55)
 
 
 Some of the mods which I use in the videos are no longer available, and while I do have them backed up, I don't want to distribute them, as they were removed for a reason. (Either a DMCA take down, or mod creator no longer wanting to work on them) Althrough you can find them elsewhere (be careful. and I don't recommend or endorse trying to get them elsewhere) a lot of mods which are un-available are really *unstable* and usually might require some maintenence.
@@ -269,6 +269,18 @@ Adds fully functional Casino.
 Autopilot features for Coil cars (can be used on any car)
 
 • [Featured in Episode 45 of "Moving Up In Los Santos](https://youtu.be/T7VDxuBp58A?si=dQtoTVTk5HgkwsxS)
+
+### [Breakable bottle](https://www.gta5-mods.com/scripts/crackable-bottle-mod-reus42)
+
+Breakable bottle mod, it is awesome, but it is also kinda buggy due to it's age.
+
+• [Featured in Episode 55 of "Moving Up In Los Santos](https://www.youtube.com/watch?v=rtf8tIgqsWk)
+
+### [Pick Up Bodies And Put Them In A Trunk](https://www.gta5-mods.com/scripts/pick-up-bodies-and-put-them-in-a-trunk)
+
+Great mod, kind of buggy sometimes, if you are not careful. Mod is in Spanish, but it's still easy to understand the prompts
+
+• [Featured in Episode 55 of "Moving Up In Los Santos](https://www.youtube.com/watch?v=rtf8tIgqsWk)
 
 ## Earn and spend money:
 
