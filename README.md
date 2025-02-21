@@ -282,6 +282,10 @@ Great mod, kind of buggy sometimes, if you are not careful. Mod is in Spanish, b
 
 • [Featured in Episode 55 of "Moving Up In Los Santos](https://www.youtube.com/watch?v=rtf8tIgqsWk)
 
+### [Lawn Mower Mod](https://www.gta5-mods.com/scripts/lawn-mower-mod)
+
+• [Featured in Episode 57 of "Moving Up In Los Santos](https://youtu.be/P2jIwYzg_vw)
+
 ## Earn and spend money:
 
 ### [Wheelman](https://www.gta5-mods.com/scripts/wheelman)
