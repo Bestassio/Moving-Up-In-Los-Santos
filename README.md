@@ -4,7 +4,7 @@ What is "MUILS"?
 Muils is a YouTube episodic series where we play a heavily modified version of GTA 5 also known as "Real Life Mod"
 
 ## **Mods list for Bestassio's Moving Up In Los Santos**
-A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 57)
+A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 58)
 
 
 Some of the mods which I use in the videos are no longer available, and while I do have them backed up, I don't want to distribute them, as they were removed for a reason. (Either a DMCA take down, or mod creator no longer wanting to work on them) Althrough you can find them elsewhere (be careful. and I don't recommend or endorse trying to get them elsewhere) a lot of mods which are un-available are really *unstable* and usually might require some maintenence.
@@ -284,7 +284,21 @@ Great mod, kind of buggy sometimes, if you are not careful. Mod is in Spanish, b
 
 ### [Lawn Mower Mod](https://www.gta5-mods.com/scripts/lawn-mower-mod)
 
+Small fun mod, which allows you to mow the lawn
+
 • [Featured in Episode 57 of "Moving Up In Los Santos](https://youtu.be/P2jIwYzg_vw)
+
+### [The Savehouse Mod](https://www.gta5-mods.com/scripts/the-savehouse-mod-houses-hotels-and-apartments-lua)
+
+Great mod, has issues, due to it's age, but it works, kinda..
+
+• [Featured in Episode 58 of "Moving Up In Los Santos](https://www.youtube.com/watch?v=5dflbAei4oc)
+
+### [Throw Props like in GTA IV](https://www.gta5-mods.com/scripts/throw-props-like-in-gta-iv)
+
+Amazing mod, must have.
+
+• [Featured in Episode 58 of "Moving Up In Los Santos](https://www.youtube.com/watch?v=5dflbAei4oc)
 
 ## Earn and spend money:
 
