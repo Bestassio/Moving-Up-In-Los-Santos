@@ -4,7 +4,7 @@ What is "MUILS"?
 Muils is a YouTube episodic series where we play a heavily modified version of GTA 5 also known as "Real Life Mod"
 
 ## **Mods list for Bestassio's Moving Up In Los Santos**
-A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 59)
+A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 60)
 
 
 Some of the mods which I use in the videos are no longer available, and while I do have them backed up, I don't want to distribute them, as they were removed for a reason. (Either a DMCA take down, or mod creator no longer wanting to work on them) Althrough you can find them elsewhere (be careful. and I don't recommend or endorse trying to get them elsewhere) a lot of mods which are un-available are really *unstable* and usually might require some maintenence.
@@ -654,6 +654,12 @@ Multi-level fancy garage, with luxurious back office, also adds lobby for eclips
 Small awesome town on Mount. Chilliad
 
 • [Featured in Episode 51 of "Moving Up In Los Santos"](https://www.youtube.com/watch?v=PQ4b9ViM7tI)
+
+### [Windy City - Chicago](https://www.gta5-mods.com/maps/windy-city-windy-city-christmas-edition)
+
+Great little city, does have a lot of empty seethrough buildings, colision issues, and is generally unfinished, but it's a cool place to check out
+
+• [Featured in Episode 60 of "Moving Up In Los Santos"](https://www.youtube.com/watch?v=8GLQxy4Yuu8)
 
 ## Weapons
 
