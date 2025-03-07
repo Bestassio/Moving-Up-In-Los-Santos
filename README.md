@@ -551,6 +551,12 @@ Amazing customizable small mod, which adds and allows you to rob safes in stores
 
 • [Featured in Episode 52 of "Moving Up In Los Santos](https://youtu.be/GKWuGk_zPjc?si=0daqpZfnpKrKJT4b)
 
+### [Diamond Casino Heist](https://www.gta5-mods.com/scripts/diamond-casino-heist)
+
+Diamond casino heist, but in singleplayer. Works a little differently then online in some aspects
+
+• [Featured in Episode 61 of "Moving Up In Los Santos](https://youtu.be/mkZZWMBcj-M?si=v4PBAuKjedZSEXgn)
+
 ## Enviroment
 
 My personal favorite graphics mod is - 
