@@ -4,7 +4,7 @@ What is "MUILS"?
 Muils is a YouTube episodic series where we play a heavily modified version of GTA 5 also known as "Real Life Mod"
 
 ## **Mods list for Bestassio's Moving Up In Los Santos**
-A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 61)
+A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 70)
 
 
 Some of the mods which I use in the videos are no longer available, and while I do have them backed up, I don't want to distribute them, as they were removed for a reason. (Either a DMCA take down, or mod creator no longer wanting to work on them) Althrough you can find them elsewhere (be careful. and I don't recommend or endorse trying to get them elsewhere) a lot of mods which are un-available are really *unstable* and usually might require some maintenence.
@@ -666,6 +666,43 @@ Small awesome town on Mount. Chilliad
 Great little city, does have a lot of empty seethrough buildings, colision issues, and is generally unfinished, but it's a cool place to check out
 
 • [Featured in Episode 60 of "Moving Up In Los Santos"](https://www.youtube.com/watch?v=8GLQxy4Yuu8)
+
+### [Modern Wood Mansion](https://www.gta5-mods.com/maps/mlo-modern-wood-house-add-on-sp)
+
+Beautiful house in the hills
+
+• [Featured in Episode 70 of "Moving Up In Los Santos"](https://www.youtube.com/watch?v=nNWaYkwEx_s)
+
+### [Rooftop Club Naeon](https://www.gta5-mods.com/maps/rooftop-club-naeon-add-on-sp)
+
+Great small small rooftop "Nightclub"
+
+• [Featured in Episode 70 of "Moving Up In Los Santos"](https://www.youtube.com/watch?v=nNWaYkwEx_s)
+
+### [Street Stylers Wrap Shop](https://www.gta5-mods.com/maps/mlo-street-stylers-wrap-shop-1-0-sp-fivem)
+
+Great small wrap/paintjob shop, fits 1/2 cars at most
+
+• [Featured in Episode 70 of "Moving Up In Los Santos"](https://www.youtube.com/watch?v=nNWaYkwEx_s)
+
+### [Benefactor Dealership (Grab Office)](https://www.gta5-mods.com/maps/los-santos-interiors-expanded-benefactor-gallivanter-dealership)
+
+Good, small dealership interior, unstable, causes glitches
+
+• [Featured in Episode 70 of "Moving Up In Los Santos"](https://www.youtube.com/watch?v=nNWaYkwEx_s)
+
+### [Wiwang Tower](https://www.gta5-mods.com/maps/mlo-wiwang-tower-lobby-rooftop-bar-add-on-sp-fivem)
+
+Great party penthouse property
+
+• [Featured in Episode 70 of "Moving Up In Los Santos"](https://www.youtube.com/watch?v=nNWaYkwEx_s)
+
+### [Restaurant In Legion Square](https://www.gta5-mods.com/maps/restaurant-mlo-add-on-fivem)
+
+Great decently sized restaurant, has some glitches here and there, but overall it's good
+
+• [Featured in Episode 70 of "Moving Up In Los Santos"](https://www.youtube.com/watch?v=nNWaYkwEx_s)
+
 
 ## Weapons
 
