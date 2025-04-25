@@ -300,11 +300,6 @@ Amazing mod, must have.
 
 • [Featured in Episode 58 of "Moving Up In Los Santos](https://www.youtube.com/watch?v=5dflbAei4oc)
 
-### [DriverJobs](https://www.gta5-mods.com/scripts/driverjobs-v)
-
-Amazing mod, which adds a bunch of jobs
-
-• [Featured in Episode 59 of "Moving Up In Los Santos](https://www.youtube.com/watch?v=BFOHKQlUsOk)
 
 ## Earn and spend money:
 
@@ -556,6 +551,18 @@ Amazing customizable small mod, which adds and allows you to rob safes in stores
 Diamond casino heist, but in singleplayer. Works a little differently then online in some aspects
 
 • [Featured in Episode 61 of "Moving Up In Los Santos](https://youtu.be/mkZZWMBcj-M?si=v4PBAuKjedZSEXgn)
+
+### [DriverJobs](https://www.gta5-mods.com/scripts/driverjobs-v)
+
+Amazing mod, which adds a bunch of jobs
+
+• [Featured in Episode 59 of "Moving Up In Los Santos](https://www.youtube.com/watch?v=BFOHKQlUsOk)
+
+### [LS TOW](https://www.gta5-mods.com/scripts/ls-tow)
+
+Small fun towing business mod
+
+• [Featured in Episode 73 of "Moving Up In Los Santos](https://youtu.be/xCGr43IquoM)
 
 ## Enviroment
 
