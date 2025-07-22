@@ -4,7 +4,7 @@ What is "MUILS"?
 Muils is a YouTube episodic series where we play a heavily modified version of GTA 5 also known as "Real Life Mod"
 
 ## **Mods list for Bestassio's Moving Up In Los Santos**
-A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 95)
+A lot of mods are combined for Moving Up In Los Santos episodes to exist, this project started way back in April of 2024 and keeps on expanding with each day. Due to the size of the mods which are used in MUILS episodes, and not to spoil what's gonna happen next, this page will be updated with each episode. (Currently on episode 98)
 
 
 Some of the mods which I use in the videos are no longer available, and while I do have them backed up, I don't want to distribute them, as they were removed for a reason. (Either a DMCA take down, or mod creator no longer wanting to work on them) Althrough you can find them elsewhere (be careful. and I don't recommend or endorse trying to get them elsewhere) a lot of mods which are un-available are really *unstable* and usually might require some maintenence.
@@ -623,6 +623,12 @@ Fun small mod which contains multiple interesting crime jobs
 Fun mod which allows you to rob all Fleeca banks, which are available, with different approaches.
 
 • [Featured in Episode 95 of "Moving Up In Los Santos](https://www.youtube.com/watch?v=_LAAWqKymB4)
+
+### [Los Santos Underground - Racing mod](https://www.gta5-mods.com/scripts/los-santos-underground)
+
+Fun mod which allows to race for money. Tends to hate Add-on cars, and there is a way to add custom races, but as of writing it seems like a huge inconvenience to do so.
+
+• [Featured in Episode 98 of "Moving Up In Los Santos](https://youtu.be/JakX5oRCyV0)
 
 ## Enviroment
 
