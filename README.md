@@ -306,6 +306,12 @@ Customizable fuel mod. Best one around.
 
 • [Featured in Episode 85 of "Moving Up In Los Santos](https://youtu.be/OfXg4kCpf5g)
 
+### [Yacht Mod](https://www.gta5-mods.com/scripts/working-galaxy-super-yacht-mod)
+
+Working yacht mod, just like GTA ONLINE.
+
+• [Featured in Episode 100 of "Moving Up In Los Santos"](https://youtu.be/mgOg07qZ55U)
+
 
 ## Earn and spend money:
 
@@ -781,6 +787,20 @@ Great decently sized restaurant, has some glitches here and there, but overall i
 Amazing More Modern Vice City.
 
 • [Featured in Episode 80 of "Moving Up In Los Santos"](https://youtu.be/mhvOWEc0TSs)
+
+### [Designer Penthouse](https://www.gta5-mods.com/maps/mlo-designer-penthouse-remake-add-on-sp)
+
+Small nice penthouse near Maze Bank Tower
+
+• [Featured in Episode 100 of "Moving Up In Los Santos"](https://youtu.be/mgOg07qZ55U)
+
+### [Niko Bellic's Loft](https://www.gta5-mods.com/maps/niko-bellic-s-loft)
+
+Great port of GTA IV's Niko Bellic's Loft.
+
+Warning: does not contain Roman Bellic or bowling.
+
+• [Featured in Episode 100 of "Moving Up In Los Santos"](https://youtu.be/mgOg07qZ55U)
 
 
 ## Weapons
