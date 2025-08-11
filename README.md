@@ -636,6 +636,12 @@ Fun mod which allows to race for money. Tends to hate Add-on cars, and there is 
 
 • [Featured in Episode 98 of "Moving Up In Los Santos](https://youtu.be/JakX5oRCyV0)
 
+### [The Palace Jewel Heist - Racing mod](https://www.gta5-mods.com/scripts/the-palace-jewel-heist)
+
+Fun heist mod, with a custom building!
+
+• [Featured in Episode 98 of "Moving Up In Los Santos](https://www.youtube.com/watch?v=gy_mLfKn8HU)
+
 ## Enviroment
 
 My personal favorite graphics mod is - 
